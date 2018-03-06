@@ -47,7 +47,7 @@ session_start();
                 </td>
                 <td>
 
-                    <?= !empty($_SESSION['email']) ? $_SESSION['email'] : ''; ?>
+                    <?=$_SESSION['email'] ?>
                 </td>
             </tr>
             <tr>
@@ -86,10 +86,7 @@ session_start();
                 </td>
                 <td>
                     <a href="index.php" id="my_s" class="btn btn-block btn-success ">Return</><br/>
-
-
                 </td>
-
             </tbody>
         </table>
         <div>

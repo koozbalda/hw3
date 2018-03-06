@@ -20,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -45,15 +45,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="1092">
+              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding>
-                <marker date="1520341955888" expanded="true" signature="1767:1792" ph="..." />
-                <marker date="1520341955888" expanded="true" signature="2038:2063" ph="..." />
-                <marker date="1520341955888" expanded="true" signature="2384:2386" ph="..." />
+                <marker date="1520342319099" expanded="true" signature="1731:1756" ph="..." />
+                <marker date="1520342319099" expanded="true" signature="2002:2027" ph="..." />
+                <marker date="1520342319099" expanded="true" signature="2345:2347" ph="..." />
               </folding>
             </state>
           </provider>
@@ -79,8 +79,8 @@
         <option value="$PROJECT_DIR$/MyObject.php" />
         <option value="$PROJECT_DIR$/frontend/MyObject.php" />
         <option value="$PROJECT_DIR$/form.php" />
-        <option value="$PROJECT_DIR$/index2.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
       </list>
     </option>
   </component>
@@ -239,12 +239,12 @@
       <workItem from="1519972088541" duration="19000" />
       <workItem from="1520073778913" duration="62000" />
       <workItem from="1520260401171" duration="2073000" />
-      <workItem from="1520323550662" duration="13775000" />
+      <workItem from="1520323550662" duration="14084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113926000" />
+    <option name="totallyTimeSpent" value="114235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -635,18 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <marker date="1520341955888" expanded="true" signature="1767:1792" ph="..." />
-            <marker date="1520341955888" expanded="true" signature="2038:2063" ph="..." />
-            <marker date="1520341955888" expanded="true" signature="2384:2386" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -656,6 +644,18 @@
             <marker date="1520342009960" expanded="true" signature="1771:1781" ph="..." />
             <marker date="1520342009960" expanded="true" signature="4074:4084" ph="..." />
             <marker date="1520342009960" expanded="true" signature="5162:5172" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <marker date="1520342319099" expanded="true" signature="1731:1756" ph="..." />
+            <marker date="1520342319099" expanded="true" signature="2002:2027" ph="..." />
+            <marker date="1520342319099" expanded="true" signature="2345:2347" ph="..." />
           </folding>
         </state>
       </provider>
